@@ -1,0 +1,71 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;autocfg&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../The-Method-of-Programming" />
+      <root url="file://$PROJECT_DIR$/../hz_fun_leecode" />
+      <root url="file://$PROJECT_DIR$/../qiniupkg.com" />
+      <root url="file://$PROJECT_DIR$/../.vscode" />
+      <root url="file://$PROJECT_DIR$/../go_promise" />
+      <root url="file://$PROJECT_DIR$/../gohessian" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../ecmail" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../git.apache.org" />
+      <root url="file://$PROJECT_DIR$/../Personal-Dictionary" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../bingImgCrawer" />
+      <root url="file://$PROJECT_DIR$/../WordCount" />
+      <root url="file://$PROJECT_DIR$/../YuXuan-Admin" />
+      <root url="file://$PROJECT_DIR$/../GenDirTreeSha1" />
+      <root url="file://$PROJECT_DIR$/../google.golang.org" />
+      <root url="file://$PROJECT_DIR$/../sourcegraph.com" />
+      <root url="file://$PROJECT_DIR$/../GutHub" />
+      <root url="file://$PROJECT_DIR$/../testIM" />
+      <root url="file://$PROJECT_DIR$/../go_test" />
+      <root url="file://$PROJECT_DIR$/../froad.com" />
+      <root url="file://$PROJECT_DIR$/../go-patterns" />
+      <root url="file://$PROJECT_DIR$/../gitlab.f-road.com.cn" />
+      <root url="file://$PROJECT_DIR$/../hzutils" />
+      <root url="file://$PROJECT_DIR$/../hackerz.com" />
+      <root url="file://$PROJECT_DIR$/../hessiancoder" />
+      <root url="file://$PROJECT_DIR$/../Keepalive-Server" />
+      <root url="file://$PROJECT_DIR$/../getMeizi" />
+      <root url="file://$PROJECT_DIR$/../getAcFunPage" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../The-Method-of-Programming" />
+      <root url="file://$PROJECT_DIR$/../hz_fun_leecode" />
+      <root url="file://$PROJECT_DIR$/../qiniupkg.com" />
+      <root url="file://$PROJECT_DIR$/../.vscode" />
+      <root url="file://$PROJECT_DIR$/../go_promise" />
+      <root url="file://$PROJECT_DIR$/../gohessian" />
+      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../ecmail" />
+      <root url="file://$PROJECT_DIR$/../golang.org" />
+      <root url="file://$PROJECT_DIR$/../git.apache.org" />
+      <root url="file://$PROJECT_DIR$/../Personal-Dictionary" />
+      <root url="file://$PROJECT_DIR$/../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../bingImgCrawer" />
+      <root url="file://$PROJECT_DIR$/../WordCount" />
+      <root url="file://$PROJECT_DIR$/../YuXuan-Admin" />
+      <root url="file://$PROJECT_DIR$/../GenDirTreeSha1" />
+      <root url="file://$PROJECT_DIR$/../google.golang.org" />
+      <root url="file://$PROJECT_DIR$/../sourcegraph.com" />
+      <root url="file://$PROJECT_DIR$/../GutHub" />
+      <root url="file://$PROJECT_DIR$/../testIM" />
+      <root url="file://$PROJECT_DIR$/../go_test" />
+      <root url="file://$PROJECT_DIR$/../froad.com" />
+      <root url="file://$PROJECT_DIR$/../go-patterns" />
+      <root url="file://$PROJECT_DIR$/../gitlab.f-road.com.cn" />
+      <root url="file://$PROJECT_DIR$/../hzutils" />
+      <root url="file://$PROJECT_DIR$/../hackerz.com" />
+      <root url="file://$PROJECT_DIR$/../hessiancoder" />
+      <root url="file://$PROJECT_DIR$/../Keepalive-Server" />
+      <root url="file://$PROJECT_DIR$/../getMeizi" />
+      <root url="file://$PROJECT_DIR$/../getAcFunPage" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
